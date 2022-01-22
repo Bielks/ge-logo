@@ -1,1 +1,2 @@
-# ge-logo
+# Geologist
+Geologist Project
